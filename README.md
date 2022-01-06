@@ -10,4 +10,4 @@
 8. git ckeckout branch-name
 9. git config -- global user.email "email@gmail.com"
 10. git config -- global user.name "Johan Fernandez"
-11. git merge master
+11. git merge branch-name
