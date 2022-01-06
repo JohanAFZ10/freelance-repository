@@ -1,0 +1,6 @@
+# Elementos del Inventario de OTTIS Hardware
+1. Transistores Mosfet
+2. Transistores BJT
+3. Resistencias SMD
+4. Capacitores electroliticos
+5. Capacitores Ceramicos
