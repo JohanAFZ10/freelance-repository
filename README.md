@@ -11,3 +11,6 @@
 9. git config -- global user.email "email@gmail.com"
 10. git config -- global user.name "Johan Fernandez"
 11. git merge branch-name
+12. git remote -v
+13. git remote add origin URL "Agregar la URL del Repositorio remoto"
+14. git remote set-url origin NEW_URL "Modificar la URL de nuestreo Repositorio remoto"
