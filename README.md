@@ -18,3 +18,4 @@
 16. git commit --amend "Este comando nos permtite editar el ultimo commit"
 17. git branch -d branch-name "Permite eliminar una rama una vez ya no la necesites"
 18. git commit -am "mensaje" - "este comando funciona el comando git add . y git commit -m"
+19. git branch -M nombre_rama_master "Puedo cambiar el nombre de la rama master"
