@@ -22,3 +22,4 @@
 20. git pull origin master "Este comando carga todos los cambios del repositorio remoto en tu repositorio local"
 21. git push -u origin master "Este comando carga tu repositorio local master, al repositorio master remoto"
 22. git diff --color-words "Este comando nos permite ver las diferencias entre un mismo archivo de diferentes commits"
+23. git checkout Commit_ID "Este comando nos permite recuperar alguna versión de nuestro proyectos, escribiendo el ID del commit que queremos recuperar"
