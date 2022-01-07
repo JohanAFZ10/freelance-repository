@@ -1,0 +1,11 @@
+{
+    "name": "Johan",
+    "last_name": "Fernández",
+    "role": "administrator",
+    "date": "07/01/2022",
+    "tasks": 2,
+    "preferences": {
+        "movies": ["batman","superman","vengadores"],
+        "topics": ["developer","software","hardware","AOI","ICT","Science"]
+    }
+}
