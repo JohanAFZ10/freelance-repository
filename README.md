@@ -19,3 +19,6 @@
 17. git branch -d branch-name "Permite eliminar una rama una vez ya no la necesites"
 18. git commit -am "mensaje" - "este comando funciona el comando git add . y git commit -m"
 19. git branch -M nombre_rama_master "Puedo cambiar el nombre de la rama master"
+20. git pull origin master "Este comando carga todos los cambios del repositorio remoto en tu repositorio local"
+21. git push -u origin master "Este comando carga tu repositorio local master, al repositorio master remoto"
+22. git diff --color-words "Este comando nos permite ver las diferencias entre un mismo archivo de diferentes commits"
