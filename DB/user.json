@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Johan",
+        "last_name": "Fernández",
+        "Role": "Coordinador Técnico OTTIS HD",
+        "Experience": 2
+    },
+    {
+        "id": 2,
+        "name": "Andrés",
+        "last_name": "Barrera",
+        "Role": "Programador y Soporte",
+        "Experience": 4
+    },
+    {
+        "id": 3,
+        "name": "Elkin",
+        "last_name": "Suarez",
+        "Role": "Ingeniero de Desarrollo",
+        "Experience": 5
+    }
+]
