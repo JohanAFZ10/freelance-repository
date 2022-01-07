@@ -7,5 +7,6 @@
     "preferences": {
         "movies": ["batman","superman","vengadores"],
         "topics": ["developer","software","hardware","AOI","ICT","Science"]
-    }
+    },
+    "sports": ["futbol","tennis","basketball"]
 }
