@@ -3,7 +3,7 @@
 1. git init
 2. git add. 
 3. git commit -m "mensaje"
-4. git log --oneline "Puedo ver el historial de commit en una sola linea" 
+4. git log --oneline "Puedo ver el historial de commit en una sola linea. Nota: Para dejar los commits en pantalla podemos hacer git log --oneline | cat" 
 5. git checkout -- .
 6. git checkout -b branch-name
 7. git branch
