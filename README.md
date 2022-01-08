@@ -26,3 +26,4 @@
 24. git reset ID_COMMIT "Este comando nos permite eliminar o volver a un commit especifico, eliminando los que se encuentren en un nivel superior - Los cambios realizados en el commit o commits eliminados, quedan guardados en el working directory. Para eliminarlos, hay que ejecutar el comando git checkout -- . para cargar los datos del commit actual"
 25. git reset --hard ID_COMMIT "La unica diferencia, es que los cambios borrados ya no quedan guardados en el staging area"
 26. git reset --soft ID_COMMIT "Los cambios borrados quedan guardados en el staging area"
+27. git revert ID_COMMIT "Este comando revierte los cambios realizados en el commit mencionado, creando otro commit nuevo"
