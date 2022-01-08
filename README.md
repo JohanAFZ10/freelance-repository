@@ -23,3 +23,6 @@
 21. git push -u origin master "Este comando carga tu repositorio local master, al repositorio master remoto"
 22. git diff --color-words "Este comando nos permite ver las diferencias entre un mismo archivo de diferentes commits"
 23. git checkout Commit_ID "Este comando nos permite recuperar alguna versión de nuestro proyectos, escribiendo el ID del commit que queremos recuperar. Tambien se puede asi: git checkout HEAD~1... 2, 3..."
+24. git reset ID_COMMIT "Este comando nos permite eliminar o volver a un commit especifico, eliminando los que se encuentren en un nivel superior - Los cambios realizados en el commit o commits eliminados, quedan guardados en el working directory. Para eliminarlos, hay que ejecutar el comando git checkout -- . para cargar los datos del commit actual"
+25. git reset --hard ID_COMMIT "La unica diferencia, es que los cambios borrados ya no quedan guardados en el staging area"
+26. git reset --soft ID_COMMIT "Los cambios borrados quedan guardados en el staging area"
